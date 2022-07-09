@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node backend/server",
     "server": "nodemon backend/server.js",
     "client": "npm start --prefix frontend",
     "both": "concurrently \"npm run server\" \"npm run client\"",
