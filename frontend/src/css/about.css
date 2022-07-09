@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone+Bounce&family=Roboto&display=swap');   
+.wrap {
+    width: 100%;
+    overflow:auo;
+    }
+    
+    .fleft {
+        float:left; 
+        width: 40%;
+        background: url("../image/aboutlogo.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 600px;
+    }
+    
+    .fright {
+    float: right;
+        background:rgba(255, 255, 255, 0.807);
+        height: 600px;
+        width: 60%;
+    }
+h1{
+      width: 80%;
+      text-align: center;
+      margin: auto;
+      padding: 20px;
+      font-family: 'Birthstone Bounce', cursive;
+      font-size: 5rem;
+      color: black;    
+}
+.arial {
+      font-family: 'Lobster', cursive;
+      width: 80%;
+      text-align: center;
+      margin: auto;
+      padding: 20px;
+      font-size: 30px;
+      color: black;
+      height: 100%;
+      line-height: 1.2;
+    }
+    
+    

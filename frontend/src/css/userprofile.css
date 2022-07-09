@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Poppins:wght@200&display=swap');
+.userprofile{
+    width: 430px;
+    margin: 25px auto;
+    background: rgb(114 114 114 / 10%);
+    padding: 50px;
+    position: relative;
+    z-index: 1;
+}
+ul li{
+    list-style: none;
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.fontone{
+    font-family: 'Nunito', sans-serif;
+}
