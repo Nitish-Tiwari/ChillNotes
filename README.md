@@ -14,7 +14,7 @@ ChillNotes is an React js application use to store user notes in secured cloud s
 Link to demo
 
 [www.chillnotes.com](https://chillnotes-mern.herokuapp.com)
-![Logo](logo.png)
+![Logo](logowhite.png)
 
 ## Roadmap
 
