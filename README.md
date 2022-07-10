@@ -25,7 +25,6 @@ Link to demo
 
 ## Screenshots
 
-![App Screenshot]
-(chillnotes2.png)
-(chillnotes1.png)
+![App Screenshot](chillnotes2.png)
+![App Screenshot](chillnotes1.png)
 
