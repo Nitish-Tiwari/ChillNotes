@@ -14,7 +14,7 @@ ChillNotes
 Link to demo
 
 [www.chillnotes.com](https://chillnotes-mern.herokuapp.com)
-![Logo](logowhite.png)
+![Logo](./image/logowhite.png)
 
 # About the App
 
@@ -22,8 +22,8 @@ ChillNotes is a React js application that stores user notes in a secured cloud s
 
 ## Screenshots
 
-![App Screenshot](chillnotes2.png)
-![App Screenshot](chillnotes1.png)
+![App Screenshot](./image/chillnotes2.png)
+![App Screenshot](./image/chillnotes1.png)
 
 ## Technologies
 
