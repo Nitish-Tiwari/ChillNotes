@@ -1,7 +1,7 @@
 
 # Project Title
 
-ChillNotes is an React js application use to store user notes in secured cloud server
+ChillNotes
 
 ## Authors
 
@@ -16,15 +16,29 @@ Link to demo
 [www.chillnotes.com](https://chillnotes-mern.herokuapp.com)
 ![Logo](logowhite.png)
 
-## Roadmap
+# About the App
+
+ChillNotes is a React js application that stores user notes in a secured cloud server!
+
+## Screenshots
+
+![App Screenshot](chillnotes2.png)
+![App Screenshot](chillnotes1.png)
+
+## Technologies
+
+I uesd Reactjs,express,node,mongodb
+
+## Status
+
+ChillNotes is still in progress.
+
+Future Tasks
 
 - Add mobile device support
 
 - Add user photo
 
 
-## Screenshots
 
-![App Screenshot](chillnotes2.png)
-![App Screenshot](chillnotes1.png)
 
